@@ -1,4 +1,4 @@
-# vue
+# Node + MongoDB
 
 > A Node.js project
 
